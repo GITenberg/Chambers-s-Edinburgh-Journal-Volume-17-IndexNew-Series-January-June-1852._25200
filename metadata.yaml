@@ -25,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5277
     wikipedia: http://en.wikipedia.org/wiki/William_Chambers_%28publisher%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25200#Chambers-s-Edinburgh-Journal-Volume-17-IndexNew-Series-January-June-1852.
 gutenberg_bookshelf: Chambers's Edinburgh Journal
 gutenberg_issued: '2008-04-27'
 gutenberg_type: Text
